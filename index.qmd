@@ -34,5 +34,3 @@ When I am not working, I love doing most things outside (especially hiking and g
 ### Research Interests
 
 political parties | political communication | electoral behavior | representation | survey & experimental methods | text-as-data applications of machine learning
-
-test
