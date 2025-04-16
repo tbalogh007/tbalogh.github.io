@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://tbalogh.github.io/&quot;/about.html</loc>
-    <lastmod>2025-04-15T23:42:19.002Z</lastmod>
-  </url>
-  <url>
-    <loc>http://tbalogh.github.io/&quot;/research.html</loc>
-    <lastmod>2025-04-15T23:44:40.102Z</lastmod>
+    <loc>http://tbalogh.github.io/&quot;/interests.html</loc>
+    <lastmod>2025-04-16T05:53:24.587Z</lastmod>
   </url>
   <url>
     <loc>http://tbalogh.github.io/&quot;/index.html</loc>
-    <lastmod>2025-04-16T01:24:26.224Z</lastmod>
+    <lastmod>2025-04-16T05:54:56.212Z</lastmod>
+  </url>
+  <url>
+    <loc>http://tbalogh.github.io/&quot;/teaching.html</loc>
+    <lastmod>2025-04-16T05:54:59.627Z</lastmod>
+  </url>
+  <url>
+    <loc>http://tbalogh.github.io/&quot;/research.html</loc>
+    <lastmod>2025-04-16T05:54:58.005Z</lastmod>
+  </url>
+  <url>
+    <loc>http://tbalogh.github.io/&quot;/about.html</loc>
+    <lastmod>2025-04-15T23:42:19.002Z</lastmod>
   </url>
 </urlset>
