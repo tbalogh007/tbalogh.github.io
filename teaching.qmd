@@ -1,0 +1,87 @@
+---
+page-layout: article
+title: Teaching
+toc: true
+section-divs: false
+keep-md: false
+format:
+  html:
+    anchor-sections: false
+include-in-header:
+  text: |
+    <style type="text/css">
+      h2, .h2 {
+        border-bottom: none;
+      }
+    </style>
+---
+
+### Section Instructor
+###### Independently taught two-three weekly hour-long classes where I lectured, facilitated discussion, and prepared assignments for class credit
+<br> 
+Introduction to Comparative Politics
+
+  + Spring 2024 ([Section Syllabus](https://www.dropbox.com/scl/fi/ijbfnptbe6xvh2ialpr33/TBalogh_Section-Syllabus-POL-02_SQ2024.pdf?rlkey=f4lt1zxudq0r6nbxkkchhzs1k&st=wd9vfj8w&dl=0))
+  
+Introduction to International Relations
+
+  + Winter 2024, Spring 2023, Winter 2023, Fall 2022, Spring 2022, Winter 2022
+
+### Teaching Assistant
+###### Attended lecture, held two weekly office hours, graded all assignments, including detailed feedback, and responded to all student inquiries
+<br>
+Introduction to International Relations 
+
+  + Winter 2024, Spring 2023, Winter 2023, Fall 2022, Spring 2022, Winter 2022
+
+British Politics
+
+  + Fall 2023, Fall 2020, Spring 2020
+  
+Introduction to Comparative Politics
+
+  + Spring 2024
+  
+Government and the Economy
+
+  + Winter 2024
+  
+International Law
+
+  + Winter 2021
+  
+Politics of Interdependence 
+
+  + Fall 2021
+  
+Russian Politics
+
+  + Spring 2021
+  
+U.S. Foreign Policy: Analysis and Theory 
+  
+  + Winter 2020
+
+
+### Sample Syllabi & Assignments
+
+[Introduction to Comparative Politics - Sample Syllabus](https://www.dropbox.com/scl/fi/srjzei8l66yx9y2ftnab7/Intro-to-CP-Syllabus_Balogh.pdf?rlkey=rm4dvvw8ktb3e9xjzntfu9cvb&st=l9zsyxor&dl=0)
+
+[Introduction to Comparative Politics - Short Writing Assignment 1](https://www.dropbox.com/scl/fi/f6dzrlzqepo7jfenn8o3k/Section-Memo-1.pdf?rlkey=vbowageq5q5yr9guxpjfe3qsh&st=43fvsecq&dl=0)
+
+[Introduction to Comparative Politics - Short Writing Assignment 2](https://www.dropbox.com/scl/fi/fm3pd8fhb2kbgp7thwu9h/Section-Memo-2.pdf?rlkey=rkgzbhrz4f1haq9bmjboe92sj&st=pzz1verf&dl=0)
+
+
+### Lecture Slides
+
+["How-To" Write in Political Science](https://www.dropbox.com/scl/fi/m1czzsd4ngzoztas4br8l/Balogh_General-Writing-Tips.pdf?rlkey=m6a49iizxrsuwxcud1eclqgvq&st=5r3pt5jq&dl=0)
+
+["How-To" Game Theory](https://www.dropbox.com/scl/fi/mrocs1073085k488r7ekh/game-theory-slides.pdf?rlkey=8kwowaofxkh3c5ftdo6og75o5&st=7jt7kjy8&dl=0)
+
+[Comparative Political Behavior](https://www.dropbox.com/scl/fi/092g3ooicgphrfvrvvb8f/Comparative-Political-Behavior.pdf?rlkey=i044fbinw6igcc53aqek6s7gi&st=35zmtd7l&dl=0)
+
+[Democracy and Measurement](https://www.dropbox.com/scl/fi/6l254w64h8pmegmv8dvtp/Democracy-and-Measurement.pdf?rlkey=dmoafuj9mcse79iz6wgzwqt4o&st=6t2bcvxa&dl=0)
+
+
+
+

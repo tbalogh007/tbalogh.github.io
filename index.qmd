@@ -2,19 +2,25 @@
 title: "Timea Balogh"
 subtitle: "PhD Candidate <br> Department of Political Science <br> University of California, Davis <br>[tbalogh@ucdavis.edu](mailto:tbalogh@ucdavis.edu)"
 image: Balogh_Timea_headshot.png
-toc: false
 about: 
   template: trestles
   image-shape: rounded
   image-width: 16em
   links:
-    - icon: bluesky.pnghttps://tbalogh007.github.io/tbalogh.github.io/
+    - icon: Email
+      text: Email
+      href: mailto:tbalogh@ucdavis.edu
+    - icon: bluesky.png
       text: Bluesky
       href: https://bsky.app/profile/tbalogh.bsky.social
+    - icon: X
+      text: X
+      href: https://x.com/timeabal
     - icon: CV
       text: CV
-      href: https://www.dropbox.com/scl/fi/5cflbryd7n9xow9ippp3p/CV_Balogh_Timea.pdf?rlkey=etswxn0v9pjfhylbw4wdbucjy&st=msxvwm50&dl=0  
----
+      href: https://www.dropbox.com/scl/fi/5cflbryd7n9xow9ippp3p/CV_Balogh_Timea.pdf?rlkey=etswxn0v9pjfhylbw4wdbucjy&st=msxvwm50&dl=0
+---   
+
 
 ### Hello and welcome!
 
@@ -24,19 +30,10 @@ My [research](research.qmd) falls at the intersection of political parties, poli
 
 Prior to starting graduate school, I received B.A.s in Political Science and Economics at Colorado State University in 2018 and worked as a Legislative Intern at the Colorado General Assembly.
 
-When I am not working, I love doing most things outside (hiking and gravel biking especially), reading (literary fiction and narrative non-fiction are my favorites), and ranting about Formula 1 (Ferrari fan).
-
-### Education
-
-<p class="custom-subtitle">
-<b>PhD in Political Science, 2019–present (Expected 2025)</b> | University of California, Davis
-</p>
-
-<p class="custom-subtitle">
-<b>BA in Political Science, 2018</b> | Colorado State University
-</p>
+When I am not working, I love doing most things outside (especially hiking and gravel biking), reading (literary fiction and narrative non-fiction are my favorites), and watching Formula 1 (Tifosi 🏎️).
 
 ### Research Interests
 
-political parties | mass-elite linkages | political behavior | representation | surveys & experiments
+political parties | political communication | mass-elite linkages | electoral behavior |  representation | survey & experimental methods | text-as-data applications of machine learning
+
 

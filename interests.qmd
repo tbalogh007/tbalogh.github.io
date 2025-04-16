@@ -1,0 +1,33 @@
+---
+page-layout: article
+title: Topics of Interest
+toc: true
+section-divs: false
+keep-md: false
+format:
+  html:
+    anchor-sections: false
+include-in-header:
+  text: |
+    <style type="text/css">
+      h2, .h2 {
+        border-bottom: none;
+      }
+    </style>
+---
+
+The following summarizes the topics that make up my current and future research agenda. For a  list of my publications and current research, please see the [Research](research.qmd) tab. 
+
+**1. The Political Consequences of Parties' Group Appeals**
+
+What effect do parties' appeals to social groups have on voters? Parties frequently utilize social group appeals in their political communication, both separate from and in addition to specific policy promises. Yet, the consequences of such appeals are largely unknown. In my dissertation work, I explore how underlying group attitudes shape the effect of parties' group appeals on political preferences. I find that party evaluations are influenced by group appeals, but only to the extent that the group is important (salient) to individuals. Appeals to groups that are well liked but not prioritized in political decisions do not have a significant effect on candidate choice or party evaluations. Moreover, I find individuals punish parties for ambiguous appeals to groups they prioritize, but not necessarily groups they merely feel positively towards. These findings reveal the importance of group salience, in addition to group affect, for understanding the effect of party's group appeals on voters. It also suggests that parties are better off appealing to salient social groups than just well-liked ones, as such appeals are more likely to resonate with voters.
+
+**2. Elite Influences on Policy Attitudes and Perceived Policy Impacts**
+
+How do individuals form beliefs about policy impacts, especially in relation to political parties and elites? This is a pertinent question, as public attitudes act as a significant barrier to successful policy implementation. In a joint working paper with fellow PhD student RyuGyung (Rio) Park, we explore the question of whether a political party's perceived competence in a given issue area (such as the economy) spills over to attitudes in other issue areas. We do so in the context of environmental policies, asking whether individuals infer the impact of environmental policies from the issue ownership of the party supporting it. We argue that right-wing parties, who are typically considered to "own" the issue of the economy, may have an advantage when promoting environmental policies, as they are perceived as having a more positive economic impact. In a pilot of an original survey experiment, we find some evidence of this.
+
+This work falls squarely into my broader interest in how current partisan and political dynamics, such as rising green conservatism, influences policy attitudes. The next step is to run a larger-N experiment soon and to supplement our experimental findings with voting data to examine its real-world significance. We are also curious about the extent to which issue ownership spillover effects exist in other issue domains outside of environmental politics.
+
+**3. Party Elites' Interactions and Citizen Perceptions**
+
+How do citizens infer the left-right distances between parties? Existing research has identified numerous sources of citizens' left-right party placements, such as the left-right orientation of parties' election manifestos, governing coalition arrangements, and media reports of party elites' interactions. Yet, what role does political sophistication play in the impact each of these different factors has for citizens' perceptions? Using cross-national survey data for 18 countries from 2001-2015, combined with a novel dataset on the level of cooperative interactions among party elites based on media reports, my co-authors and I find that the politically sophisticated weigh parties' election manifestos and media reports of elite interactions differently than the less sophisticated. Meanwhile, political sophistication has no effect on the weight of governing coalition arrangements. This research informs our understanding of how citizens perceive left-right distances and the (sometimes) moderating influence of political sophistication.

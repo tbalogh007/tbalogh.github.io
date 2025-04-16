@@ -12,8 +12,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: interests.qmd
+        text: Interests
       - href: research.qmd
         text: Research
+      - href: teaching.qmd
+        text: Teaching
     page-footer: 
         center: "COPYRIGHT ©2024, TIMEA BALOGH. ALL RIGHTS RESERVED."
         background: light
