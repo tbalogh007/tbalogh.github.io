@@ -18,6 +18,8 @@ include-in-header:
 
 The following summarizes the topics that make up my current and future research agenda. For a  list of my publications and current research, please see the [Research](research.qmd) tab. 
 
+political parties | political communication | electoral behavior | representation | survey & experimental methods | text-as-data applications of machine learning
+
 **1. The Political Consequences of Parties' Group Appeals**
 
 What effect do parties' appeals to social groups have on voters? Parties frequently utilize social group appeals in their political communication, both separate from and in addition to specific policy promises. Yet, the consequences of such appeals are largely unknown. In my dissertation work, I explore how underlying group attitudes shape the effect of parties' group appeals on political preferences. I find that party evaluations are influenced by group appeals, but only to the extent that the group is important (salient) to individuals. Appeals to groups that are well liked but not prioritized in political decisions do not have a significant effect on candidate choice or party evaluations. Moreover, I find individuals punish parties for ambiguous appeals to groups they prioritize, but not necessarily groups they merely feel positively towards. These findings reveal the importance of group salience, in addition to group affect, for understanding the effect of party's group appeals on voters. It also suggests that parties are better off appealing to salient social groups than just well-liked ones, as such appeals are more likely to resonate with voters.

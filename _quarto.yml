@@ -13,14 +13,17 @@ website:
       - href: index.qmd
         text: Home
       - href: interests.qmd
-        text: Interests
+        text: Topics of Interest
       - href: research.qmd
         text: Research
       - href: teaching.qmd
         text: Teaching
-    page-footer: 
-        center: "COPYRIGHT ©2024, TIMEA BALOGH. ALL RIGHTS RESERVED."
-        background: light
+      - href: https://www.dropbox.com/scl/fi/5cflbryd7n9xow9ippp3p/CV_Balogh_Timea.pdf?rlkey=etswxn0v9pjfhylbw4wdbucjy&st=t6jar61w&dl=0
+        text: CV
+
+page-footer: 
+  center: "COPYRIGHT ©2024, TIMEA BALOGH. ALL RIGHTS RESERVED."
+  background: light
       
 format:
   html:
