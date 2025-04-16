@@ -13,7 +13,7 @@ about:
       text: CV
       href: https://www.dropbox.com/scl/fi/5cflbryd7n9xow9ippp3p/CV_Balogh_Timea.pdf?rlkey=etswxn
     - icon: twitter-x
-      href: https://x.com/timeabal0v9pjfhylbw4wdbucjy&st=msxvwm50&dl=0
+      href: https://x.com/timeabal 
     - icon: bluesky.png
       text: Bluesky
       href: https://bsky.app/profile/tbalogh.bsky.social
@@ -25,10 +25,12 @@ about:
 
 I am a Ph.D. Candidate in the Department of Political Science at [The University of California, Davis](https://ps.ucdavis.edu/). I am also a 2024-2025 Bilinski Fellow.
 
-My [research](research.qmd) falls at the intersection of political parties, political communication, and electoral behavior in advanced industrial democracies. I am interested in a wide range of questions related to how citizens form beliefs about politics, representation, and policy impacts, especially the influence of information, elite rhetoric, and other mass-elite linkages. During my Ph.D., I have also been involved with [The Institute for Replication](https://i4replication.org/).
+My [research](research.qmd) falls at the intersection of political parties, political communication, and electoral behavior in advanced industrial democracies. I am interested in a wide range of questions related to how citizens form beliefs about parties, policy, and representation, especially the influence of information, elite rhetoric, and other mass-elite linkages. To study these questions, I frequently employ survey experiments, large-N observational analyses, and text-as-data methods. During my Ph.D., I have also been involved with [The Institute for Replication](https://i4replication.org/).
 
 Prior to starting graduate school, I received B.A.s in Political Science and Economics at Colorado State University in 2018 and worked as a Legislative Intern at the Colorado General Assembly.
 
 When I am not working, I love doing most things outside (especially hiking and gravel biking), reading (literary fiction and narrative non-fiction are my favorites), and watching Formula 1 (Tifosi 🏎️).
 
+### Research Interests
 
+political parties | political communication | electoral behavior | representation | survey & experimental methods | text-as-data applications of machine learning

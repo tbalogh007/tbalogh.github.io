@@ -29,7 +29,7 @@ Abstract: Herzog, Baron, and Gibbons (2022) explore the effects of exposure to o
 
 ## Invitations to Revise and Resubmit
 
-"Conjoint Analysis of Interpersonal Affective Polarization: Limits of Partisan Bias in Dating, Housing, and Shopping" with Spencer Kiesel and Sharif Amlani.
+**"Conjoint Analysis of Interpersonal Affective Polarization: Limits of Partisan Bias in Dating, Housing, and Shopping" with Spencer Kiesel and Sharif Amlani.**
 
   + Revise and Resubmit at *Political Science Quarterly*
   + Presented at MPSA 2023, EPSA 2023, APSA 2023
@@ -39,21 +39,21 @@ Abstract: Scholarship shows that partisanship can inform individuals’ decision
 
 ## Working Papers
 
-"Policies, But for Whom? Testing the Effect of Social Group Appeals on British Voters’ Party Preferences" [Job Market Paper]
+**"Policies, But for Whom? Testing the Effect of Social Group Appeals on British Voters’ Party Preferences" [Job Market Paper]**
 
   + Presented at MPSA 2024, UC Davis Political Science Research Workshop Spring 2024, APSA 2024, NYU CESS Experimental Political Science Conference 2025, MPSA 2025
   + Available upon request
 
 Abstract: This study examines how political parties’ rhetorical appeals to social groups affect voters’ party preferences. Parties regularly appeal to social groups in their political communications, often pairing these appeals with policy promises. Yet, existing models of voting behavior focus almost exclusively on the role of policies. I use a pre-registered conjoint experiment fielded on a nationally representative sample of British adults that has voters consider parties’ promises to social groups in four different issue areas, and I show that voters punish parties who explicitly appeal to women, while appeals to workers are more generally accepted. Moreover these effects are moderated by the importance of the group to the individual. I find that the punishing effect of appeals to women are not driven by men, but rather those who do not consider women important. These findings shed light on the role of group attitudes in explaining voting behavior and advance our understanding of the consequences of group appeals.
 
-"The Greens' Disadvantage: How Parties' Policy Reputations Shape Public Perceptions of Environmental Policy" with RyuGyung (Rio) Park
+**"The Greens' Disadvantage: How Parties' Policy Reputations Shape Public Perceptions of Environmental Policy" with RyuGyung (Rio) Park**
 
   + Presented at MPSA 2024, EPG 2024, APSA 2024, Graduate Students in International Political Economy (GSIPE) 2025 Conference 
   + Draft available upon request
   
 Abstract: Traditionally, environmental policies, including measures to combat climate change, have been closely associated with left-wing parties, especially green parties, while right-wing parties have often been perceived as prioritizing economic interests over environmental concerns. However, we see an increasing number of right-wing parties starting to advocate more for environmental regulations, such as France’s National Rally, Spain’s Vox, or Latvia’s National Alliance. Do right-wing parties enjoy a certain advantage from their previous reputation for prioritizing the economy? We hypothesize that, controlling for individuals’ ideology and stated issue priorities, environmental policies supported by parties that own economic issues will be perceived more favorably. On the other hand, environmental policies supported by parties that own environmental issues will be perceived less favorably. Meanwhile, when the policy is supported by an environment prioritizing party, the expected environmental impact will be more positive, but the expected economic impact will be more negative. To test our hypotheses, we use survey experiments conducted in the U.S. using vignettes on a hypothetical climate policy.
 
-"Who Attacks Whom? The Correlates of Media Reports of Inter-party Conflict and Cooperation Between European Elites" with James Adams, Josephine Andrews, Timea Balogh, Braeden Davis, and Alexa Federice
+**"Who Attacks Whom? The Correlates of Media Reports of Inter-party Conflict and Cooperation Between European Elites" with James Adams, Josephine Andrews, Braeden Davis, and Alexa Federice**
 
   + Presented at MPSA 2025
   

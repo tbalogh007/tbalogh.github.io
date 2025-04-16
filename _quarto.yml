@@ -12,8 +12,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: interests.qmd
-        text: Topics of Interest
       - href: research.qmd
         text: Research
       - href: teaching.qmd
