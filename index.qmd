@@ -13,6 +13,7 @@ about:
       href: https://bsky.app/profile/tbalogh.bsky.social
     - icon: CV
       text: CV
+      href: https://www.dropbox.com/scl/fi/5cflbryd7n9xow9ippp3p/CV_Balogh_Timea.pdf?rlkey=etswxn0v9pjfhylbw4wdbucjy&st=msxvwm50&dl=0  
 ---
 
 ### Hello and welcome!
