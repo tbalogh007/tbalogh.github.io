@@ -5,6 +5,7 @@ project:
 website:
   title: "Timea Balogh"
   site-url: http://tbalogh.github.io/"
+  google-analytics: G-RWSEJBLGLN
   search: false
   description: "Timea Balogh is a PhD candidate at UC Davis."
   navbar:
