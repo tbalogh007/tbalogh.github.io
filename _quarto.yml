@@ -19,11 +19,11 @@ website:
         text: Teaching
       - href: https://www.dropbox.com/scl/fi/5cflbryd7n9xow9ippp3p/CV_Balogh_Timea.pdf?rlkey=etswxn0v9pjfhylbw4wdbucjy&st=t6jar61w&dl=0
         text: CV
+  page-footer:
+    background: light 
+    left: Copyright 2025, Timea Balogh
+    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/tbalogh007/tbalogh.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
-page-footer: 
-  center: "COPYRIGHT ©2024, TIMEA BALOGH. ALL RIGHTS RESERVED."
-  background: light
-      
 format:
   html:
     theme: morph

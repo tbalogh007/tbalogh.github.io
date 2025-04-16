@@ -16,9 +16,9 @@ include-in-header:
     </style>
 ---
 
-The following summarizes the topics that make up my current and future research agenda. For a  list of my publications and current research, please see the [Research](research.qmd) tab. 
+The following summarizes the topics that make up my current and future research agenda. For a list of my publications and current research, please see the [Research](research.qmd) tab.
 
-political parties | political communication | electoral behavior | representation | survey & experimental methods | text-as-data applications of machine learning
+political parties \| political communication \| electoral behavior \| representation \| survey & experimental methods \| text-as-data applications of machine learning
 
 **1. The Political Consequences of Parties' Group Appeals**
 
