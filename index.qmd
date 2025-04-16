@@ -8,7 +8,7 @@ about:
   image-shape: rounded
   image-width: 16em
   links:
-    - icon: Bluesky
+    - icon: bluesky.pnghttps://tbalogh007.github.io/tbalogh.github.io/
       text: Bluesky
       href: https://bsky.app/profile/tbalogh.bsky.social
     - icon: CV
@@ -20,7 +20,7 @@ about:
 
 I am a Ph.D. Candidate in the Department of Political Science at [The University of California, Davis](https://ps.ucdavis.edu/). I am also a 2024-2025 Bilinski Fellow.
 
-My [research](research.qmd) falls at the intersection of political parties, political communication, and political behavior in advanced industrial democracies. I am interested in a wide range of questions related to how citizens form beliefs about politics, representation, and policy impacts, especially the influence of information, elite rhetoric, and other mass-elite linkages. During my Ph.D., I have also been involved with [The Institute for Replication](https://i4replication.org/).
+My [research](research.qmd) falls at the intersection of political parties, political communication, and electoral behavior in advanced industrial democracies. I am interested in a wide range of questions related to how citizens form beliefs about politics, representation, and policy impacts, especially the influence of information, elite rhetoric, and other mass-elite linkages. During my Ph.D., I have also been involved with [The Institute for Replication](https://i4replication.org/).
 
 Prior to starting graduate school, I received B.A.s in Political Science and Economics at Colorado State University in 2018 and worked as a Legislative Intern at the Colorado General Assembly.
 
@@ -28,19 +28,15 @@ When I am not working, I love doing most things outside (hiking and gravel bikin
 
 ### Education
 
-::: topbr
 <p class="custom-subtitle">
-
- **PhD in Political Science, 2019-present (Expected 2025)** \| University of California, Davis
-
+<b>PhD in Political Science, 2019–present (Expected 2025)</b> | University of California, Davis
 </p>
 
 <p class="custom-subtitle">
-
- **BA in Political Science, 2018** \| Colorado State University
-
+<b>BA in Political Science, 2018</b> | Colorado State University
 </p>
-:::
 
-### Research interests
+### Research Interests
+
+political parties | mass-elite linkages | political behavior | representation | surveys & experiments
 
