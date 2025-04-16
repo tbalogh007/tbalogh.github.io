@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Timea Balogh"
+  site-url: http://tbalogh.github.io/"
+  search: false
+  description: "Timea Balogh is a PhD candidate at UC Davis."
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+    page-footer: 
+        center: "COPYRIGHT ©2024, TIMEA BALOGH. ALL RIGHTS RESERVED."
+        background: light
+      
+format:
+  html:
+    theme: morph
+    css: styles.css
+    toc: true
+
+editor: visual
+
