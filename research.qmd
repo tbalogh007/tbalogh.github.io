@@ -15,6 +15,10 @@ include-in-header:
     </style>
 ---
 
+## Book
+
+"Who Attacks Whom? The Correlates of Media Reports of Inter-party Conflict and Cooperation Between European Elites." with James Adams, Josephine Andrews, Braeden Davis, Alexa Federice, Noam Gidron, and Will Horne. Under contract with *Cambridge University Press*. 
+
 ## Peer-Reviewed Publications
 
 ["Does Political Sophistication Moderate How Citizens Use Information to Infer Left-Right Distances between Parties?"](https://www.tandfonline.com/doi/full/10.1080/17457289.2024.2429533?af=R) with Will Horne, Simon Weschle, James Adams, and Christopher Wlezien. 2025. Published in the *Journal of Elections, Public Opinion and Parties*.
@@ -36,7 +40,7 @@ Abstract: Scholarship shows that partisanship can inform individuals’ decision
 
 ## Working Papers
 
-**"Policies, But for Whom? Testing the Effect of Social Group Appeals on British Voters’ Party Preferences" [Job Market Paper]**
+**"Policies, But for Whom? Testing the Effect of Social Group Appeals on British Voters’ Party Preferences" \[Job Market Paper\]**
 
 -   Presented at MPSA 2024, UC Davis Political Science Research Workshop Spring 2024, APSA 2024, NYU CESS Experimental Political Science Conference 2025, MPSA 2025
 -   Available upon request

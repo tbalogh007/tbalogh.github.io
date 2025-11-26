@@ -1,6 +1,6 @@
 ---
 title: "Timea Balogh"
-subtitle: "PhD Candidate <br> Department of Political Science <br> University of California, Davis"
+subtitle: "Research Associate <br> Department of Government and Public Policy <br> University of Strathclyde"
 image: Balogh_Timea_headshot.png
 about: 
   template: trestles
@@ -8,7 +8,7 @@ about:
   image-width: 16em
   links:
     - icon: envelope
-      href: mailto:tbalogh@ucdavis.edu
+      href: mailto:timea.balogh@strath.ac.uk
     - icon: CV
       text: CV
       href: https://www.dropbox.com/scl/fi/5cflbryd7n9xow9ippp3p/CV_Balogh_Timea.pdf?rlkey=etswxn
@@ -17,20 +17,16 @@ about:
     - icon: bluesky.png
       text: Bluesky
       href: https://bsky.app/profile/tbalogh.bsky.social
-
----   
-
+---
 
 ### Hello and welcome!
 
-I am a Ph.D. Candidate in the Department of Political Science at [The University of California, Davis](https://ps.ucdavis.edu/). I am also a 2024-2025 Bilinski Fellow.
+I am a Postdoctoral Research Associate in the Department of Government & Public Policy at the [University of Strathclyde](https://www.strath.ac.uk/humanities/governmentpublicpolicy/), where I have been working on the [ParliView project](https://www.parliview.org/) since September 2025. Before moving to Glasgow, I earned my Ph.D. in Political Science at the University of California, Davis in June 2025 where I was a 2024/2025 Bilinski Fellow. 
 
-My [research](research.qmd) falls at the intersection of political parties, political communication, and electoral behavior in advanced industrial democracies. I am interested in a wide range of questions related to how citizens form beliefs about parties, policy, and representation, especially the influence of information, elite rhetoric, and other mass-elite linkages. To study these questions, I frequently employ survey experiments, large-N observational analyses, and text-as-data methods. During my Ph.D., I have also been involved with [The Institute for Replication](https://i4replication.org/).
-
-Prior to starting graduate school, I received B.A.s in Political Science and Economics at Colorado State University in 2018 and worked as a Legislative Intern at the Colorado General Assembly.
+My [research](research.qmd) falls at the intersection of political parties, political communication, and electoral behavior in advanced industrial democracies. I am interested in a wide range of questions related to how citizens form beliefs about parties, policy, and representation, especially the influence of information, elite rhetoric, and other mass-elite linkages. To study these questions, I frequently employ survey experiments, large-N observational analyses, and text-as-data methods. I am also involved with initiatives such as [The Institute for Replication](https://i4replication.org/).
 
 When I am not working, I love doing most things outside (especially hiking and gravel biking), reading (literary fiction and narrative non-fiction are my favorites), and watching Formula 1 (Tifosi 🏎️).
 
 ### Research Interests
 
-political parties | political communication | electoral behavior | representation | survey & experimental methods | text-as-data applications of machine learning
+political parties \| political communication \| electoral behavior \| societal impacts of AI \| survey & experimental methods \| text-as-data applications of machine learning
