@@ -1,6 +1,6 @@
 ---
 title: "Timea Balogh"
-subtitle: "Research Associate <br> Department of Government and Public Policy <br> University of Strathclyde"
+subtitle: "Postdoctoral Research Associate <br> Department of Government and Public Policy <br> University of Strathclyde"
 image: Balogh_Timea_headshot.png
 about: 
   template: trestles
@@ -21,7 +21,7 @@ about:
 
 ### Hello and welcome!
 
-I am a Postdoctoral Research Associate in the Department of Government & Public Policy at the [University of Strathclyde](https://www.strath.ac.uk/humanities/governmentpublicpolicy/), where I have been working on the [ParliView project](https://www.parliview.org/) since September 2025. Before moving to Glasgow, I earned my Ph.D. in Political Science at the University of California, Davis in June 2025 where I was a 2024/2025 Bilinski Fellow. 
+I am a Postdoctoral Research Associate in the Department of Government & Public Policy at the [University of Strathclyde](https://www.strath.ac.uk/humanities/governmentpublicpolicy/), where I have been working on the [ParliView project](https://www.parliview.org/) since September 2025. Before moving to Glasgow, I earned my Ph.D. in Political Science at the University of California, Davis in June 2025 where I was a 2024/2025 Bilinski Fellow.
 
 My [research](research.qmd) falls at the intersection of political parties, political communication, and electoral behavior in advanced industrial democracies. I am interested in a wide range of questions related to how citizens form beliefs about parties, policy, and representation, especially the influence of information, elite rhetoric, and other mass-elite linkages. To study these questions, I frequently employ survey experiments, large-N observational analyses, and text-as-data methods. I am also involved with initiatives such as [The Institute for Replication](https://i4replication.org/).
 
