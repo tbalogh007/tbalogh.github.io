@@ -17,7 +17,9 @@ include-in-header:
 
 ## Book
 
-"Who Attacks Whom? The Correlates of Media Reports of Inter-party Conflict and Cooperation Between European Elites." with James Adams, Josephine Andrews, Braeden Davis, Alexa Federice, Noam Gidron, and Will Horne. Under contract with *Cambridge University Press*. 
+**"Who Attacks Whom? The Correlates of Media Reports of Inter-party Conflict and Cooperation Between European Elites." with James Adams, Josephine Andrews, Braeden Davis, Alexa Federice, Noam Gidron, and Will Horne.**
+
+-   Under contract with *Cambridge University Press*.
 
 ## Peer-Reviewed Publications
 
