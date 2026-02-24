@@ -12,8 +12,8 @@ about:
     - icon: CV
       text: CV
       href: https://www.dropbox.com/scl/fi/0308z1kkobovc14mhc7qv/CV_Balogh_Timea_Jan2026.pdf?rlkey=k5hrzzdbtsj8yaq6aw33yv5nx&st=xn0badmh&dl=0
-    - icon: twitter-x
-      href: https://x.com/timeabal 
+    - icon: LinkedIn_icon.png
+      href: www.linkedin.com/in/timea-balogh-363b72381
     - icon: bluesky.png
       text: Bluesky
       href: https://bsky.app/profile/tbalogh.bsky.social
