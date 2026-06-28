@@ -61,7 +61,8 @@ Abstract: The environment-economy trade-off is regarded as one of the biggest ob
 
 **"The power of conversation: A survey experiment on AI-generated information and political behaviour" with Louise Luxton and Zoe Greene.**
 
--   Upcoming presentations at ECPR Joint Sessions 2026, COMPTEXT 2026, MPSA 2026, UCD Workshop on LLMs and Access to Political Information, EPSS 2026 
+-   Presented at ECPR Joint Sessions 2026, COMPTEXT 2026, MPSA 2026, UCD Workshop on LLMs and Access to Political Information, EPSS 2026 
+- Upcoming presentations at APSA 2026
 
 Abstract: Citizens increasingly seek political information from generative AI platforms such as ChatGPT. Despite concerns about the reliability of these platforms, extensive usage by citizens of these tools is poorly understood, including implications for political knowledge, voter behaviour, and political trust. Crucially, these platforms differ from news, social media, and search engines, in their interactivity and human-like tone. These unique characteristics may increase citizens' trust in the information provided and affect perceptions of political knowledge and efficacy. Yet, there is little causal research on the relationship between AI platforms and political behaviour. We examine the effects of AI-produced information on citizens’ political behaviour in the context of the European Parliament – characterised by low baseline knowledge and trust, high complexity, and weak partisanship. We field a preregistered survey experiment, with live participant interaction with a novel generative-AI transparency platform, varying two attributes: (1) interactivity (ability to ask follow-up questions) and (2) response tone (friendly, human-like vs. neutral), holding substantive content constant. We test whether AI’s unique conversationality increases citizen’s trust in the information provided,  AI generally, as well their political knowledge, efficacy, and institutional trust.
 
@@ -75,3 +76,10 @@ Abstract: A large body of extant research has examined how parties use both poli
 **"Protecting Migrant Rights: Barriers to Naturalization" with Enrico Antonio La Viña and Jeannette Money.**
 
 **"Introducing the Transnational Security Cooperation Agreement Dataset (TSCAD)" with Brandon Kinne.**
+
+## Blog Posts and Reports
+
+**["From chatbots to the ballotbox – how voters used AI to learn about the Scottish Parliament election"](https://www.electionanalysis.uk/scottish-election-analysis-2026/section-1-parties-and-the-campaign/from-chatbots-to-the-ballotbox-how-voters-used-ai-to-learn-about-the-scottish-parliament-election/) with Louise Luxton, Elise Frelin, and Zoe Greene.**
+
+**["Auditing AI Chatbots During the Galway West and Dublin Central Byelections"](https://www.ucd.ie/connected_politics/blog/auditingaichatbotsduringthegalwaywestanddublincentralbyelections/) with Eoghan Cunningham, James Cross, Louise Luxton, Timea Balogh, and Derek Greene**
+
