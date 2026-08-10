@@ -23,7 +23,7 @@ include-in-header:
 
 Abstract: Political elites’ inter-party conflict plausibly intensifies citizens’ hostility towards political opponents, i.e., affective polarization, while depressing their democratic satisfaction. Yet, while mass-level affective polarization and democratic satisfaction are widely studied, less is known about patterns of animosity among political elites. To address this gap, we analyze Western European politicians’ interparty interactions based on coded news reports in thirteen countries between 2001 and 2019, finding sharp cross-national and temporal variations in reported levels of interparty conflict. Within countries, elites’ interactions are more conflictual when parties diverge in their ideologies, their attitudes towards European integration, and their populist orientations, and are also related to governing coalition arrangements. Moderate economic downturns are associated with greater interparty conflict, but severe recessions – such as the global downturn beginning in 2009 – are associated with more interparty cooperation as elites work together to address the ongoing economic crisis. We also estimate that political elites’ interactions are far less conflictual in countries that feature more consensual political institutions, supporting Lijphart’s contention that consensualism promotes kinder, gentler, politics. Our findings illuminate how interparty cooperation and conflict vary within and between European party systems.
 
-## Peer-Reviewed Publications
+## Publications
 
 [**"Reproducibility and robustness of economics and political science research"**](https://doi.org/10.1038/s41586-026-10251-x) with Abel Brodeur et al. 2026. Published in *Nature*.
 
@@ -66,7 +66,7 @@ Abstract: The environment-economy trade-off is regarded as one of the biggest ob
 **"The power of conversation: A survey experiment on AI-generated information and political behaviour" with Louise Luxton and Zoe Greene.**
 
 - Presented at ECPR Joint Sessions 2026, COMPTEXT 2026, MPSA 2026, UCD Workshop on LLMs and Access to Political Information, EPSS 2026
-- Upcoming presentations at APSA 2026
+- Upcoming presentations at APSA 2026, EPOP 2026
 
 Abstract: Citizens increasingly seek political information from generative AI platforms such as ChatGPT. Despite concerns about the reliability of these platforms, extensive usage by citizens of these tools is poorly understood, including implications for political knowledge, voter behaviour, and political trust. Crucially, these platforms differ from news, social media, and search engines, in their interactivity and human-like tone. These unique characteristics may increase citizens' trust in the information provided and affect perceptions of political knowledge and efficacy. Yet, there is little causal research on the relationship between AI platforms and political behaviour. We examine the effects of AI-produced information on citizens’ political behaviour in the context of the European Parliament – characterised by low baseline knowledge and trust, high complexity, and weak partisanship. We field a preregistered survey experiment, with live participant interaction with a novel generative-AI transparency platform, varying two attributes: (1) interactivity (ability to ask follow-up questions) and (2) response tone (friendly, human-like vs. neutral), holding substantive content constant. We test whether AI’s unique conversationality increases citizen’s trust in the information provided,  AI generally, as well their political knowledge, efficacy, and institutional trust.
 
@@ -77,12 +77,16 @@ Abstract: Citizens increasingly seek political information from generative AI pl
 
 Abstract: A large body of extant research has examined how parties use both policy appeals and group appeals to increase electoral support among different groups in society. Yet, most of this work has occurred in parallel, and few scholars have investigated how parties strategically combine these two types of appeals – namely, what policies are promised to which groups and to what effect. This article advances this area of research by introducing a new dataset on parties’ policy and group appeals based on party manifesto data in Europe. We capture three key elements of group appeals: the group being appealed to, the policy promise being made (if any), and the specificity of the promise. We argue that whether groups receive symbolic gestures versus concrete policy commitments has profound implications for the quality and credibility of their representation. Using this data, we therefore test the extent to which different parties pair group appeals with substantive policy commitments and identify systematic patterns in how different policy areas become linked to particular groups. By distinguishing which groups receive symbolic versus substantive representation and in which policy domains, we bridge the emerging research on group appeals with foundational theories of representation. Our analysis also reveals under which circumstances certain groups are made politically absent through their omission from parties’ policy appeals.
 
-**"Protecting Migrant Rights: Barriers to Naturalization" with Enrico Antonio La Viña and Jeannette Money.**
-
 **"Introducing the Transnational Security Cooperation Agreement Dataset (TSCAD)" with Brandon Kinne.**
 
-## Blog Posts and Reports
+**"Protecting Migrant Rights: Barriers to Naturalization" with Enrico Antonio La Viña and Jeannette Money.**
 
-[**"From chatbots to the ballotbox – how voters used AI to learn about the Scottish Parliament election"**](https://www.electionanalysis.uk/scottish-election-analysis-2026/section-1-parties-and-the-campaign/from-chatbots-to-the-ballotbox-how-voters-used-ai-to-learn-about-the-scottish-parliament-election/) **with Louise Luxton, Elise Frelin, and Zoe Greene.**
+## Reports
 
-[**"Auditing AI Chatbots During the Galway West and Dublin Central Byelections"**](https://www.ucd.ie/connected_politics/blog/auditingaichatbotsduringthegalwaywestanddublincentralbyelections/) **with Eoghan Cunningham, James Cross, Louise Luxton, Timea Balogh, and Derek Greene**
+[**"From chatbots to the ballotbox – how voters used AI to learn about the Scottish Parliament election"**](https://www.electionanalysis.uk/scottish-election-analysis-2026/section-1-parties-and-the-campaign/from-chatbots-to-the-ballotbox-how-voters-used-ai-to-learn-about-the-scottish-parliament-election/) **Published in Scottish Parliament Election Analysis 2026. The Campaign, Voters and Policies: Early Reflections from Leading Academics. University of Glasgow. With Louise Luxton, Elise Frelin, and Zoe Greene.**
+
+## Blog posts and news articles
+
+[**"Voters don’t like politicians using AI"**](https://www.electionanalysis.uk/scottish-election-analysis-2026/section-1-parties-and-the-campaign/from-chatbots-to-the-ballotbox-how-voters-used-ai-to-learn-about-the-scottish-parliament-election/) **Published in LSE British Politics and Policy blog. With Louise Luxton, Elise Frelin, and Zoe Greene.**
+
+[**"Auditing AI Chatbots During the Galway West and Dublin Central Byelections"**](https://www.ucd.ie/connected_politics/blog/auditingaichatbotsduringthegalwaywestanddublincentralbyelections/) **Published in the UCD Connected Politics blog. With Eoghan Cunningham, James Cross, Louise Luxton, Timea Balogh, and Derek Greene**
