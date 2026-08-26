@@ -37,15 +37,6 @@ Abstract: Research identifies numerous factors associated with citizens’ perce
 
 Abstract: Herzog, Baron, and Gibbons (2022) explore the effects of exposure to official elite rhetoric and group cues on public support against the international nuclear weapons prohibition norm. The authors find that elite cues, in particular security and institutional cues, increase individuals' opposition to the Treaty on the Prohibition of Nuclear Weapons (TPNW). However, elite cues do not seem to have an effect on changing individuals' broader attitudes towards nuclear weapons, as measured by individuals' existing opposition to nuclear arms. We replicate and expand the authors' methods and results to test the robustness of the effects found in the study. First, we reproduce the main finding using the authors' original data and method. We do not find any coding errors that undermine the authors' analysis or conclusions. Second, we test the robustness of the results by (1) using a different operationalization of party identity, and (2) calculating additional subgroup analysis for gender. We find no significant differences between our replicated and the original results, however females' support for the TPNW is more responsive to security cues, while males' support is more responsive to institutions cues.
 
-## Invitations to Revise and Resubmit
-
-**"Conjoint Analysis of Interpersonal Affective Polarization: Limits of Partisan Bias in Dating, Housing, and Shopping" with Spencer Kiesel and Sharif Amlani.**
-
-- Revise and Resubmit at *Political Science Quarterly*
-- Presented at MPSA 2023, EPSA 2023, APSA 2023
-
-Abstract: Scholarship shows that partisanship can inform individuals’ decisions in areas outside of politics, such as roommate choice, spousal selection, and economic behavior. However, few studies can systematically determine whether these decisions are based on partisanship or if they use partisanship to make inferences about other characteristics relevant to a given social choice. To determine to what extent partisanship informs decisions, we use a conjoint analysis to isolate the impact of partisanship on nonpolitical considerations across three types of social decisions: selecting a spouse to marry, a neighborhood to live in, and a business to frequent. We find that partisanship influences all three social decisions, even while controlling for other salient considerations. Further, we find that the degree to which partisanship matters is similar to and, in some cases, exceeds other relevant considerations. Overall, we show that when individuals make key decisions that affect the trajectory of their life, partisanship is a fundamental consideration.
-
 ## Working Papers
 
 **"Policies, But for Whom? Testing the Effect of Social Group Appeals on British Voters’ Party Preferences" \[Job Market Paper\].**
@@ -57,27 +48,37 @@ Abstract: This study examines how political parties’ rhetorical appeals to soc
 
 **"The Greens' Disadvantage: How Party Reputations Shape Public Perceptions of Climate Policy" with RyuGyung (Rio) Park.**
 
-- Under Review
+- Under review
 - Presented at MPSA 2024, EPG 2024, APSA 2024, Graduate Students in International Political Economy (GSIPE) 2025 Conference
 - Available upon request
 
 Abstract: The environment-economy trade-off is regarded as one of the biggest obstacles to climate action. Ambitious decarbonization measures imply big economic costs, and electorates often worry about the economic repercussions of climate action. Do green parties suffer a systematic disadvantage from their reputation for too heavily prioritizing the environment over the economy? We theorize that, controlling for individuals’ ideology and policy issue priorities, climate policies supported by parties that have ex ante reputation for prioritizing the economy will be perceived more favorably than a green party, or a party with environmental issue competence. We use survey experiments in the U.S. and Germany to test our theory. Our results show that, while overall policy support remains relatively stable, having a green party as the main supporter of a policy creates more concerns for its economic consequences, which is consistent with our theory. While green parties appear to suffer a disadvantage, we do not find any evidence that right-wing parties experience an advantage.
 
+**"Conjoint Analysis of Interpersonal Affective Polarization: Limits of Partisan Bias in Dating, Housing, and Shopping" with Spencer Kiesel and Sharif Amlani.**
+
+- Under review
+- Presented at MPSA 2023, EPSA 2023, APSA 2023
+
+Abstract: Scholarship shows that partisanship can inform individuals’ decisions in areas outside of politics, such as roommate choice, spousal selection, and economic behavior. However, few studies can systematically determine whether these decisions are based on partisanship or if they use partisanship to make inferences about other characteristics relevant to a given social choice. To determine to what extent partisanship informs decisions, we use a conjoint analysis to isolate the impact of partisanship on nonpolitical considerations across three types of social decisions: selecting a spouse to marry, a neighborhood to live in, and a business to frequent. We find that partisanship influences all three social decisions, even while controlling for other salient considerations. Further, we find that the degree to which partisanship matters is similar to and, in some cases, exceeds other relevant considerations. Overall, we show that when individuals make key decisions that affect the trajectory of their life, partisanship is a fundamental consideration.
+
+**"Introducing the Transnational Security Cooperation Agreement Dataset (TSCAD)" with Patrick Bernhard, Nahrain Bet Younadam, Dylan Forrester, Alexandra J. Lazar, Enrico Antonio B. La Viña, Andrew Roskos-Ewoldsen, Daniel Scates, Anya Stewart, and Brandon Kinne.**
+
+- Under review 
+
+Abstract: Nontraditional threats such as terrorism, trafficking, and organized crime increasingly require governments to cooperate across borders. Yet, scholars lack cross-national data on the formal agreements that structure this cooperation. This paper introduces the first dataset on transnational security cooperation agreements (TSCAs). These agreements establish cooperation among civilian security agencies---such as interior ministries, national police, and intelligence agencies---in order to address nontraditional threats. We describe the collection and coding of TSCAD, explain the various types of agreements, and present illustrative applications to terrorism and regime type. TSCAD contains more than 2,000 bilateral agreements from 1980 to 2020, providing scholars with a valuable new resource for studying how governments respond to novel security threats. An R package allows users to tailor TSCA data to specific research applications.
+
 **"The power of conversation: A survey experiment on AI-generated information and political behaviour" with Louise Luxton and Zoe Greene.**
 
 - Presented at ECPR Joint Sessions 2026, COMPTEXT 2026, MPSA 2026, UCD Workshop on LLMs and Access to Political Information, EPSS 2026
-- Upcoming presentations at APSA 2026, EPOP 2026
+- Upcoming presentations at ECPR 2026, EPOP 2026
 
 Abstract: Citizens increasingly seek political information from generative AI platforms such as ChatGPT. Despite concerns about the reliability of these platforms, extensive usage by citizens of these tools is poorly understood, including implications for political knowledge, voter behaviour, and political trust. Crucially, these platforms differ from news, social media, and search engines, in their interactivity and human-like tone. These unique characteristics may increase citizens' trust in the information provided and affect perceptions of political knowledge and efficacy. Yet, there is little causal research on the relationship between AI platforms and political behaviour. We examine the effects of AI-produced information on citizens’ political behaviour in the context of the European Parliament – characterised by low baseline knowledge and trust, high complexity, and weak partisanship. We field a preregistered survey experiment, with live participant interaction with a novel generative-AI transparency platform, varying two attributes: (1) interactivity (ability to ask follow-up questions) and (2) response tone (friendly, human-like vs. neutral), holding substantive content constant. We test whether AI’s unique conversationality increases citizen’s trust in the information provided,  AI generally, as well their political knowledge, efficacy, and institutional trust.
 
 **"Representation Beyond Issues: How Parties Strategically Combine Group and Policy Appeals" with Louise Luxton.**
 
 - Part of upcoming *Politics and Governance* Special Issue "Giving or Taking Voice: Representative Claims and Group Appeals in the Public Sphere" with Lucy Kinski and Clint Claessen
-- Upcoming presentations at ECPR GC 2026
 
 Abstract: A large body of extant research has examined how parties use both policy appeals and group appeals to increase electoral support among different groups in society. Yet, most of this work has occurred in parallel, and few scholars have investigated how parties strategically combine these two types of appeals – namely, what policies are promised to which groups and to what effect. This article advances this area of research by introducing a new dataset on parties’ policy and group appeals based on party manifesto data in Europe. We capture three key elements of group appeals: the group being appealed to, the policy promise being made (if any), and the specificity of the promise. We argue that whether groups receive symbolic gestures versus concrete policy commitments has profound implications for the quality and credibility of their representation. Using this data, we therefore test the extent to which different parties pair group appeals with substantive policy commitments and identify systematic patterns in how different policy areas become linked to particular groups. By distinguishing which groups receive symbolic versus substantive representation and in which policy domains, we bridge the emerging research on group appeals with foundational theories of representation. Our analysis also reveals under which circumstances certain groups are made politically absent through their omission from parties’ policy appeals.
-
-**"Introducing the Transnational Security Cooperation Agreement Dataset (TSCAD)" with Brandon Kinne.**
 
 **"Protecting Migrant Rights: Barriers to Naturalization" with Enrico Antonio La Viña and Jeannette Money.**
 

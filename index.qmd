@@ -11,7 +11,7 @@ about:
       href: mailto:timea.balogh@strath.ac.uk
     - icon: CV
       text: CV
-      href: https://www.dropbox.com/scl/fi/0308z1kkobovc14mhc7qv/CV_Balogh_Timea_Jan2026.pdf?rlkey=k5hrzzdbtsj8yaq6aw33yv5nx&st=xn0badmh&dl=0
+      href: https://www.dropbox.com/scl/fi/v7wnb0kafu3xmael5lhfn/CV_Balogh_Timea_Aug20.pdf?rlkey=kpc0y7tyfgbndm24d0iflk3b4&st=gqesgj4c&dl=0
     - icon: LinkedIn_icon.png
       text: LinkedIn
       href: https://www.linkedin.com/in/timea-balogh-363b72381
@@ -24,10 +24,7 @@ about:
 
 I am a Postdoctoral Research Associate in the Department of Government & Public Policy at the [University of Strathclyde](https://pureportal.strath.ac.uk/en/persons/timea-balogh/), where I have been working on the [ParliView project](https://www.parliview.org/) since September 2025. Before moving to Glasgow, I earned my Ph.D. in Political Science at the University of California, Davis in June 2025 and was a 2024/2025 Bilinski Fellow.
 
-My [research](research.qmd) focuses on political communication, public opinion, and electoral behavior in advanced industrial democracies. I am interested in a wide range of questions related to what shapes citizens' attitudes about parties, policies, and
-representation, especially the influence of information and elite rhetoric. To
-study these questions, I frequently use survey experiments, large-N
-observational and survey data, and text-as-data methods. I am also involved with initiatives such as [The Institute for Replication](https://i4replication.org/).
+My [research](research.qmd) focuses on political communication, public opinion, and electoral behavior in advanced industrial democracies. I am interested in a wide range of questions related to what shapes citizens' attitudes about parties, policies, and representation, especially the influence of information and elite rhetoric. To study these questions, I frequently use survey experiments, large-N observational and survey data, and text-as-data methods. I am also involved with initiatives such as [The Institute for Replication](https://i4replication.org/).
 
 When I am not working, I love doing most things outside (especially hiking and gravel biking), reading (literary fiction and narrative non-fiction are my favorites), and watching Formula 1 (Tifosi 🏎️).
 
