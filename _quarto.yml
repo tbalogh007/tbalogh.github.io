@@ -9,7 +9,7 @@ website:
   site-url: http://tbalogh.github.io/"
   google-analytics: G-RWSEJBLGLN
   search: false
-  description: "Timea Balogh is a PhD candidate at UC Davis."
+  description: "Timea Balogh is a Postdoctoral Research Associate at University of Strathclyde."
   navbar:
     pinned: true
     left:
@@ -19,11 +19,11 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
-      - href: https://www.dropbox.com/scl/fi/0308z1kkobovc14mhc7qv/CV_Balogh_Timea_Jan2026.pdf?rlkey=k5hrzzdbtsj8yaq6aw33yv5nx&st=2ayn7db6&dl=0
+      - href: https://www.dropbox.com/scl/fi/v7wnb0kafu3xmael5lhfn/CV_Balogh_Timea_Aug20.pdf?rlkey=kpc0y7tyfgbndm24d0iflk3b4&st=gqesgj4c&dl=0
         text: CV
   page-footer:
     background: light 
-    left: Copyright 2025, Timea Balogh
+    left: Copyright 2026, Timea Balogh
     right: This website is made with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/tbalogh007/tbalogh.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
