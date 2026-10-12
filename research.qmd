@@ -63,7 +63,7 @@ Abstract: Scholarship shows that partisanship can inform individuals’ decision
 
 **"Introducing the Transnational Security Cooperation Agreement Dataset (TSCAD)" with Patrick Bernhard, Nahrain Bet Younadam, Dylan Forrester, Alexandra J. Lazar, Enrico Antonio B. La Viña, Andrew Roskos-Ewoldsen, Daniel Scates, Anya Stewart, and Brandon Kinne.**
 
-- Under review 
+- Under review
 
 Abstract: Nontraditional threats such as terrorism, trafficking, and organized crime increasingly require governments to cooperate across borders. Yet, scholars lack cross-national data on the formal agreements that structure this cooperation. This paper introduces the first dataset on transnational security cooperation agreements (TSCAs). These agreements establish cooperation among civilian security agencies---such as interior ministries, national police, and intelligence agencies---in order to address nontraditional threats. We describe the collection and coding of TSCAD, explain the various types of agreements, and present illustrative applications to terrorism and regime type. TSCAD contains more than 2,000 bilateral agreements from 1980 to 2020, providing scholars with a valuable new resource for studying how governments respond to novel security threats. An R package allows users to tailor TSCA data to specific research applications.
 
